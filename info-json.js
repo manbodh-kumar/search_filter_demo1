@@ -1,0 +1,61 @@
+import react,{Component} from "react";
+
+const Information = [
+  {
+    "name":"Manbodh",
+    "age":21,
+    "country":"USA"
+  },
+  {
+    "name":"Sanju",
+    "age":21,
+    "country":"USA"
+  },
+  {
+    "name":"subha",
+    "age":21,
+    "country":"Africa"
+  },
+  {
+    "name":"Meenkashi",
+    "age":21,
+    "country":"Africa"
+  },
+  {
+    "name":"Aayush",
+    "age":21,
+    "country":"India"
+  },
+  {
+    "name":"Sean",
+    "age":21,
+    "country":"Ireland"
+  },
+  {
+    "name":"Ronaldo",
+    "age":21,
+    "country":"France"
+  },
+  {
+    "name":"Dustin",
+    "age":21,
+    "country":"Spain"
+  },
+  {
+    "name":"Alexendra",
+    "age":21,
+    "country":"USA"
+  },
+  {
+    "name":"Lee",
+    "age":21,
+    "country":"China"
+  },
+  {
+    "name":"Jim",
+    "age":21,
+    "country":"Korea"
+  }
+];
+
+export default Information;
